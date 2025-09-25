@@ -1,6 +1,9 @@
 # Rest Assured
 https://github.com/tomianggriawan/RestAssuredAutomation/tree/master/src/test/java
 
+# Cypress
+https://github.com/tomianggriawan/learncypress/tree/master/cypress/e2e
+
 # UI/Ux Portfolio
 
 Web App 
