@@ -1,11 +1,11 @@
-# Rest Assured
+# Rest Assured - Java
 https://github.com/tomianggriawan/RestAssuredAutomation/tree/master/src/test/java
 
-# Cypress
-https://github.com/tomianggriawan/learncypress/tree/master/cypress/e2e
-
-# Selenium
+# Selenium - Java
 https://github.com/tomianggriawan/SeleniumVedata
+
+# Cypress- JavaScript
+https://github.com/tomianggriawan/learncypress/tree/master/cypress/e2e
 
 # UI/Ux Portfolio
 
