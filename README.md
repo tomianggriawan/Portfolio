@@ -4,6 +4,9 @@ https://github.com/tomianggriawan/RestAssuredAutomation/tree/master/src/test/jav
 # Cypress
 https://github.com/tomianggriawan/learncypress/tree/master/cypress/e2e
 
+# Selenium
+https://github.com/tomianggriawan/SeleniumVedata
+
 # UI/Ux Portfolio
 
 Web App 
