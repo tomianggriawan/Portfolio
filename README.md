@@ -1,3 +1,9 @@
+# Project Management
+https://www.figma.com/design/E6CNxmBAmhIrssAdCzzRaH/GitLab-Project-Management?node-id=0-1&t=sys8ZOyztGf1JYUf-1
+
+# Test Case Creation
+https://docs.google.com/spreadsheets/d/1XspjczYuSeGoiqDttdvDbbtI5RbPb4siwOpFFMwGlbE/edit?gid=0#gid=0
+
 # Rest Assured - Java
 https://github.com/tomianggriawan/RestAssuredAutomation/tree/master/src/test/java
 
